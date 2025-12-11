@@ -53,7 +53,4 @@ Méthode particulièrement utile en :
 
 ## 📦 Installation
 
-Cloner le dépôt :
 
-```bash
-git clone https://github.com/TON_UTILISATEUR/catpca-shiny-app.git
